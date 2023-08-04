@@ -2,7 +2,7 @@
 A mod that overwrites the textbox image with a clean titleless textbox. Choose the one for your language.
 
 
-## <b><ins>Description</ins></b>
+## <b><ins>Examples</ins></b>
 
 ### English
 | Before  | After |
