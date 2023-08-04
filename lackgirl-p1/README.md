@@ -13,17 +13,17 @@ There are two versions of the mod. Only choose one: more opaque or maximum opaqu
 ### Original
 This is what the textbox looks like by default, before patching the game.
 <br>
-![Image of the game with the original textbox](original.png =480x270))
+<img src="original.png" width=50% height=50% alt="Image of the game with the original textbox">
 
 ### More Opaque
 This is what the textbox looks like with the more opaque patch.
 <br>
-![Image of the game with the more opaque textbox](more-opaque/more-opaque.png =480x270))
+<img src="more-opaque/more-opaque.png" width=50% height=50% alt="Image of the game with the more opaque textbox">
 
 ### Maximum Opaque
 This is what the textbox looks like with the maximum opaque patch.
 <br>
-![Image of the game with the maximum opaque textbox](maximum-opaque/maximum-opaque.png =480x270))
+<img src="maximum-opaque/maximum-opaque.png" width=50% height=50% alt="Image of the game with the maximum opaque textbox">
 
 ## <b><ins>Installation</ins></b>
 
