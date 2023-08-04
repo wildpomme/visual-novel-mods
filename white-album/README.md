@@ -2,22 +2,22 @@
 A mod that overwrites the textbox image with a clean titleless textbox. Choose the one for your language.
 
 
-## <b><ins>Description</ins></b>
+## <b><ins>Examples</ins></b>
 
 ### English
 | Before  | After |
 | ------------- | ------------- |
-| ![Image of the game with the original textbox](english/original.jpg =480x270))  | ![Image of the game with the modded textbox](english/new.jpg =480x270))  |
+| <img src="english/original.jpg" alt="Image of the game with the original textbox">  | <img src="english/new.jpg" alt="Image of the game with the modded textbox">  |
 
 ### Japanese
 | Before  | After |
 | ------------- | ------------- |
-| ![Image of the game with the original textbox](japanese/original.jpg =480x270))  | ![Image of the game with the modded textbox](japanese/new.jpg =480x270))  |
+| <img src="japanese/original.jpg" alt="Image of the game with the original textbox">  | <img src="japanese/new.jpg" alt="Image of the game with the modded textbox">  |
 
 ### Traditional Chinese
 | Before  | After |
 | ------------- | ------------- |
-| ![Image of the game with the original textbox](traditional-chinese/original.jpg =480x270))  | ![Image of the game with the modded textbox](traditional-chinese/new.jpg =480x270))  |
+| <img src="traditional-chinese/original.jpg" alt="Image of the game with the original textbox">  | <img src="traditional-chinese/new.jpg" alt="Image of the game with the modded textbox">  |
 
 ## <b><ins>Installation</ins></b>
 
