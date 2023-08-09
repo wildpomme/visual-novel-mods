@@ -8,8 +8,8 @@ This mod works regardless of whether you have the Johren, Jast, MangaGamer, Kagu
 
 1. Unzip the patch and open the extracted folder.
 2. Open the game's base directory (depends on where you bought the game and how you installed it).
-3. Copy the TheShell.pfs.050 file and paste it in the game's base directory.
-4. Copy the op1.dat file and paste it into the movie folder inside the game's base directory, overwriting the file that was already there.
+3. Drag and drop the TheShell.pfs.050 file and the movie folder into the game's base directory.
+4. Say yes to overwriting the op1.dat file.
 5. Launch the game and enjoy!
 
 Credit for the uncensored CGs goes to Oneline
