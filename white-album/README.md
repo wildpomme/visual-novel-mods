@@ -22,6 +22,7 @@ A mod that overwrites the textbox image with a clean titleless textbox. Choose t
 ## <b><ins>Installation</ins></b>
 
 ### Download
+Download from the Releases page.
 
 ### Instructions
 

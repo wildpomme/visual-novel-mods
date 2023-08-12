@@ -6,6 +6,10 @@ This mod works regardless of whether you have the Johren, Jast, MangaGamer, Kagu
 
 ## <b><ins>Installation</ins></b>
 
+### Download
+Download from the Releases page.
+
+### Instructions
 1. Unzip the patch and open the extracted folder.
 2. Open the game's base directory (depends on where you bought the game and how you installed it).
 3. Drag and drop the TheShell.pfs.050 file and the movie folder into the game's base directory.

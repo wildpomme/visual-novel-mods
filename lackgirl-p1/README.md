@@ -28,6 +28,7 @@ This is what the textbox looks like with the maximum opaque patch.
 ## <b><ins>Installation</ins></b>
 
 ### Download
+Download from the Releases page.
 
 ### Instructions
 Please make sure you have launched the game at least once and initialized the save data before installing the patch.
