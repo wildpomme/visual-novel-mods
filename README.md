@@ -9,4 +9,5 @@ This is mainly a place for mods I've created for myself to improve the readabili
 - Clean Textbox Mod
 
 ## The Shell Part 1: Inferno
+- Improved Readability Mod
 - Uncensored Mod
