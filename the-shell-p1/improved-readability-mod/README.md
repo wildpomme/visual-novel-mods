@@ -11,6 +11,13 @@ This mod applies to all languages, English, Traditional Chinese, and Simplified 
 - Swaps out the dialogue's “” quotes for regular "" quotes, fixing spacing issues.
 - Rebinds "Return to Title" to Esc instead of F12, since Steam screenshots are already on F12.
 
+## <b><ins>Update 01: Mod Bug Fixes (2023/08/14)</ins></b>
+- Moved text in textbox around to account for Natsume's massive head.
+- Moved portraits down and to the left a little to better match the transparency fade to the edge of the screen.
+- Swapped out the dialogue's ‘’ quotes for regular '' quotes, fixing spacing issues.
+- Adjusted position of text-is-finished sparkle animation in both NVL and ADV scenes.
+- Changed the "Natsuckme" translation to "Natsume darlin'" since that feels like a more appropriate translation of Natsume-chan in this scene.
+
 ### NVL Scenes
 | Before  | After |
 | ------------- | ------------- |
