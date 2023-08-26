@@ -18,6 +18,9 @@ This mod applies to all languages, English, Traditional Chinese, and Simplified 
 - Adjusted position of text-is-finished sparkle animation in both NVL and ADV scenes.
 - Changed the "Natsuckme" translation to "Natsume darlin'" since that feels like a more appropriate translation of Natsume-chan in this scene.
 
+## <b><ins>Update 02: Mod Bug Fixes (2023/08/25)</ins></b>
+- Edited how choices text is displayed so that italics look correct.
+
 ### NVL Scenes
 | Before  | After |
 | ------------- | ------------- |
