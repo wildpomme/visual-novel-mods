@@ -13,5 +13,5 @@ This is mainly a place for mods I've created for myself to improve the readabili
 - Uncensored Mod
 
 ## The Shell Part II: Purgatorio
-- Improved Readability Mod (currently in development)
-- Uncensored Mod (currently in development)
+- Improved Readability Mod
+- Uncensored Mod
