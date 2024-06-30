@@ -9,6 +9,9 @@ This mod applies to all languages, English, Traditional Chinese, and Simplified 
 - Adds a thematically appropriate scrollbar to the backlog to make looking through the backlog easier.
 - Rebinds "Return to Title" to Esc instead of F12, since Steam screenshots are already on F12.
 
+## <b><ins>Update 01: Mod Bug Fixes (2024/06/30)</ins></b>
+- Adjusted text during NVL scenes to prevent obscured text and crashing.
+
 ### NVL Scenes
 | Before  | After |
 | ------------- | ------------- |
