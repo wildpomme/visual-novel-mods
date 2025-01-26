@@ -15,3 +15,8 @@ This is mainly a place for mods I've created for myself to improve the readabili
 ## The Shell Part II: Purgatorio
 - Improved Readability Mod
 - Uncensored Mod
+
+## The Shell Part III: Paradiso
+- Improved Readability Mod
+
+*(The Shell Part III doesn't have an uncensored mod because there's nothing to uncensor.)*
