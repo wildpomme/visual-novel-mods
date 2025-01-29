@@ -21,6 +21,9 @@ This mod applies to all languages, English, Traditional Chinese, and Simplified 
 ## <b><ins>Update 02: Mod Bug Fixes (2023/08/25)</ins></b>
 - Edited how choices text is displayed so that italics look correct.
 
+## <b><ins>Update 03: Mod Bug Fixes (2025/01/29)</ins></b>
+- The new update on Steam broke the mod and this fixes that issue.
+
 ### NVL Scenes
 | Before  | After |
 | ------------- | ------------- |
