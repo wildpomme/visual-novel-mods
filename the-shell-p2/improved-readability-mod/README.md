@@ -12,6 +12,9 @@ This mod applies to all languages, English, Traditional Chinese, and Simplified 
 ## <b><ins>Update 01: Mod Bug Fixes (2024/06/30)</ins></b>
 - Adjusted text during NVL scenes to prevent obscured text and crashing.
 
+## <b><ins>Update 02: Mod Bug Fixes (2025/01/30)</ins></b>
+- The new update on Steam broke the mod and this fixes that issue.
+
 ### NVL Scenes
 | Before  | After |
 | ------------- | ------------- |
